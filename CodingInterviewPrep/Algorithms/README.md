@@ -5,3 +5,4 @@ Solutions to problems from Algorithms section.
 | --------------| ---- |
 | Find the Symmetric Difference | [Find the Symmetric Difference](find-the-symmetric-difference.js/) |
 | Inventory Update | [Inventory Update](inventory-update.js/) |
+| No Repeats Please | [No Repeats Please](no-repeats-please.js/) |
