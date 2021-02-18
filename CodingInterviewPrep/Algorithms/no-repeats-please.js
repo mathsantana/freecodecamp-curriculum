@@ -17,7 +17,7 @@ function permAlone(str) {
     }
   }
 
-  heapAlgorithm(str.length, arr, result);
+  heapAlgorithm(str.length);
 
   const filtered = result.filter((value) => !hasConsecutiveLetters(value));
 
